@@ -4,7 +4,7 @@ A Template for the Game Design Document created for a VR Horror Game.
 The short template is given below:
 
 
-##Scary Mansion VR
+## Scary Mansion VR
 
 1. Game Identity / Mantra
 
